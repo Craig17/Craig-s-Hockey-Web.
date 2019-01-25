@@ -1,0 +1,62 @@
+/* Styles Sheet */
+
+/* Text Styles */
+html{
+  background: url("Images/Oilers\ Logo.png") no-repeat center fixed;
+  background-size: 1200px;
+  text-align: center;
+}
+
+div{
+  border: 2px solid rgb(225, 80, 0);
+  border-radius: 25px;
+  width: 350px;
+  margin: 20px auto;
+  height: 400px;
+  padding: 20px 45px;
+  background-color: white;
+}
+
+h1 {
+  color: #0000cc;
+  text-align: center;
+  letter-spacing: 2px;
+  font-size: 50px; 
+  text-shadow: 2px 2px black;
+}
+
+h2{
+  color: rgb(243, 53, 6);
+  font-variant: small-caps;
+}
+
+div{
+  border-radius: 25px;
+  width: 400px;
+  margin: 50px auto;
+  padding: 40px 75px;
+  background-color: white;
+
+ }
+/* Page Styles */
+.Speed{
+  border: 4px solid #0000cc; 
+  box-shadow: 2px 2px rgb#0000cc;
+}
+ 
+.Stats{
+  border: 4px solid #0000cc; 
+  box-shadow: 2px 2px rgb #0000cc;
+}
+
+.Captain{
+  border: 4px solid #0000cc; 
+  box-shadow: 2px 2px rgb #0000cc;
+}
+
+
+button{
+  background-color: #0000cc;
+  border: 2px solid #E44D26
+}
+
